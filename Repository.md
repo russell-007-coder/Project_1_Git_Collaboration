@@ -1,6 +1,6 @@
 # Repository
 
-A repository is like a folder for your project. Your project's repository contains all of your project's files and stores each file's revision history. You can also discuss and manage your project's work within the repository.
+A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
 
 You can own repositories individually, or you can share ownership of repositories with other people in an organization.
 
@@ -8,33 +8,23 @@ You can restrict who has access to a repository by choosing the repository's vis
 
 For user-owned repositories, you can give other people collaborator access so that they can collaborate on your project. If a repository is owned by an organization, you can give organization members access permissions to collaborate on your repository.
 
-With GitHub Free for user accounts and organizations, you can work with unlimited collaborators on unlimited public repositories with a full feature set, or unlimited private repositories with a limited feature set. To get advanced tooling for private repositories, you can upgrade to GitHub Pro, GitHub Team, or GitHub Enterprise Cloud.
-
-There are 2 ways to create repositories:
-1. Creating a Repository in GitHub
-2. Creating a Repository in Local
-
 ## Creating a Repository in GitHub
 
 1. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
-![SS1](https://media-exp1.licdn.com/dms/image/C4D03AQGVWacoootGTQ/profile-displayphoto-shrink_400_400/0/1602244967642?e=1618444800&v=beta&t=LM0inyhFixUnxq7QUe4njVhCIvDr-ApURlQqiWsqZ40)
-2. Type a short, memorable name for your repository. For example, "hello-world".
-![SS2](https://docs.github.com/assets/images/help/repository/create-repository-name.png)
-3. Optionally, add a description of your repository. For example, "My first repository on GitHub."
-![SS3](https://docs.github.com/assets/images/help/repository/create-repository-desc.png)
-4. Choose a repository visibility.
-![SS4](https://docs.github.com/assets/images/help/repository/create-repository-public-private.png)
-5. Select Initialize this repository with a README.
-![SS5](https://docs.github.com/assets/images/help/repository/initialize-with-readme.png)
-6. Click Create repository.
-![SS6](https://docs.github.com/assets/images/help/repository/create-repository-button.png)
-
-## Creating Repository in Local
-
-1. Create a directory to contain the project.(You can use any Terminal like Git,Command Line,Webstorm,etc.)
-![SS9](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqd5YDeYtmUxhaHw8HTLyNPjEp2aA7KQ4ibQ&usqp=CAU)
-2. Go into the new directory.
-![SS7](https://res.cloudinary.com/sitereq-production/image/upload/PostContentImage/565x380/git-browse-to-folder1124201709380012222019025830)
-
-3. Type git init 
-![SS8](https://res.cloudinary.com/sitereq-production/image/upload/PostContentImage/565x380/git-init1124201709402012222019025910)
+![SS1](https://docs.github.com/assets/images/help/repository/repo-create.png)
+2. Optionally, to create a repository with the directory structure and files of an existing repository, use the Choose a template drop-down and select a template repository.
+![SS1](https://docs.github.com/assets/images/help/repository/template-drop-down.png)
+3. Optionally, if you chose to use a template, to include the directory structure and files from all branches in the template, and not just the default branch, select Include all    branches.
+![SS1](https://docs.github.com/assets/images/help/repository/include-all-branches.png)
+4. In the Owner drop-down, select the account you wish to create the repository on.
+![SS1](https://docs.github.com/assets/images/help/repository/create-repository-owner.png)
+5. Type a name for your repository, and an optional description
+![SS1](https://docs.github.com/assets/images/help/repository/create-repository-name.png)
+6. Choose a repository visibility. 
+![SS1](https://docs.github.com/assets/images/help/repository/create-repository-public-private.png)
+7. If you're not using a template, there are a number of optional items you can pre-populate your repository with. If you're importing an existing repository to GitHub, don't        choose any of these options, as you may introduce a merge conflict. You can add or create new files using the user interface or choose to add new files using the command line      later.
+   You can create a README, which is a document describing your project. For more information, see "About READMEs."
+   You can create a .gitignore file, which is a set of ignore rules. For more information, see "Ignoring files."
+   You can choose to add a software license for your project. For more information, see "Licensing a repository."
+8. Click Create repository.
+![SS1](https://docs.github.com/assets/images/help/repository/create-repository-button.png)
