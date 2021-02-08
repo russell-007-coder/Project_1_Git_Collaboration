@@ -1,5 +1,6 @@
 Git Pull: The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content. Once the content is downloaded, git pull will enter a merge workflow. A new merge commit will be-created and HEAD updated to point at the new commit. 
 
+
 Example
 
 Update the remote-tracking branches for the repository you cloned from, then merge one of them into your current branch:
