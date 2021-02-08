@@ -11,6 +11,7 @@ For user-owned repositories, you can give other people collaborator access so th
 ## Creating a Repository in GitHub
 
 1. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
+
 ![SS1](https://docs.github.com/assets/images/help/repository/repo-create.png)
 2. Optionally, to create a repository with the directory structure and files of an existing repository, use the Choose a template drop-down and select a template repository.
 ![SS1](https://docs.github.com/assets/images/help/repository/template-drop-down.png)
