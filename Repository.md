@@ -35,9 +35,9 @@ For user-owned repositories, you can give other people collaborator access so th
 ![SS1](https://docs.github.com/assets/images/help/repository/create-repository-public-private.png)
 
 7. If you're not using a template, there are a number of optional items you can pre-populate your repository with. If you're importing an existing repository to GitHub, don't      choose any of these options, as you may introduce a merge conflict. You can add or create new files using the user interface or choose to add new files using the command        line later.
-   You can create a README, which is a document describing your project. For more information, see "About READMEs."
-   You can create a .gitignore file, which is a set of ignore rules. For more information, see "Ignoring files."
-   You can choose to add a software license for your project. For more information, see "Licensing a repository."
+   You can create a README, which is a document describing your project.
+   You can create a .gitignore file, which is a set of ignore rules. 
+   You can choose to add a software license for your project. 
 
 8. Click Create repository.
 
