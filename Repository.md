@@ -30,6 +30,7 @@ There are 2 ways to create repositories:
 ![SS6](https://docs.github.com/assets/images/help/repository/create-repository-button.png)
 
 ## Creating Repository in Local
+
 1. Create a directory to contain the project.(You can use any Terminal like Git,Command Line,Webstorm,etc.)
 ![SS9](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqd5YDeYtmUxhaHw8HTLyNPjEp2aA7KQ4ibQ&usqp=CAU)
 2. Go into the new directory.
