@@ -30,7 +30,7 @@
 
 **Section2**
 
-- [GitFlow](gitFlow.md)
+- [GitFlow](GitFlow.md)
 
 **Section3**
 
