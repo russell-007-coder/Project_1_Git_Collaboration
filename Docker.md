@@ -13,3 +13,4 @@ Git's promise: Tiny footprint with lightning fast performance.
 Docker has the same promise. Except instead of for tracking changes in code, you can track changes in systems. Git outclasses SCM tools like
 Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows. 
 Docker outclasses other tools with features like ultra-fast container startup times (microseconds, not minutes), convenient image building tools, and collaboration workflows.
+
