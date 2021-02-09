@@ -78,3 +78,23 @@
 
 - https://docs.github.com/en/github/using-git/removing-a-remote
 
+- https://support.atlassian.com/bitbucket-cloud/docs/branch-a-repository/
+
+- https://git-scm.com/docs/git-push
+
+- https://git-scm.com/docs/git-pull
+
+- https://git-scm.com/docs/git-merge
+
+- https://docs.gitlab.com/ee/ci/introduction/
+
+- https://zellwk.com/blog/git-flow/
+
+- https://www.linode.com/docs/guides/when-and-why-to-use-docker/
+
+- https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/#:~:text=Git%20is%20an%20Open%20Source%20Distributed%20Version%20Control%20System.&text=So%20Git%20can%20be%20used,can%20add%20code%20in%20parallel.
+
+- https://git-scm.com/docs/git-checkout
+
+- https://git-scm.com/docs/git-clone
+
