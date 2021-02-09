@@ -1,1 +1,80 @@
-# Project_1_Git_Collaboration
+# ***Project 1: Git Collaboration***
+
+**ProjectDescription:** This Project Explains on How usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company and GitFlow Workflow and Git Terminologies and how to use it in three Sections:
+
+- Section1:Uses of Git,Docker,Automated Testing,Continuous Integration
+
+- Section2:GitFlow Workflow
+
+- Section3:Git Terminologies
+
+## Team Members
+
+1. Russell Sanjay Pinto (russell-007-coder)
+
+2. Nidhi Laxman Kokande (Nidhikokande)
+
+## Index
+
+**Section1**
+
+- [Automated Testing](Automated_Testing.md)
+
+- [Docker](Docker.md)
+
+- [Why Docker](Why_%20docker.md)
+
+- [Git Introduction](Git_introduction.md)
+
+- [Continuous Integration](Continuous_integration.md)
+
+**Section2**
+
+- [GitFlow](gitFlow.md)
+
+**Section3**
+
+- [Repository](Repository.md)
+
+- [Clone](Clone.md)
+
+- [Fork](Fork.md)
+
+- [Branch](Branch.md)
+
+- [Commit](commit.md)
+
+- [Merge](Merge.md)
+
+- [Checkout](Git_checkout.md)
+
+- [Push](push.md)
+
+- [Pull](Pull.md)
+
+- [Remote Add / Remove / Show](Remote_Add_Remote_Show.md)
+
+- [Status](Status.md)
+
+- [Master Branch](Master_Branch.md)
+
+## Changelog
+
+[Changelog](Changelog.md)
+
+## Sources
+
+- https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories
+
+- https://www.guru99.com/automation-testing.html
+
+- https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
+
+- https://github.com/git-guides/git-status
+
+- https://www.ctl.io/developers/blog/post/what-is-docker-and-when-to-use-it/
+
+- https://www.atlassian.com/git/tutorials/syncing
+
+- https://docs.github.com/en/github/using-git/removing-a-remote
+
